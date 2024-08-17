@@ -11,6 +11,3 @@ Developed code using Arduino IDE to interface microcontrollers with sensors, enh
 ## Student Space Programs Laboratory
 - https://sites.psu.edu/sspl/
 
-## Contributions
-- Abdulrahman Osilan
-- Meerav Shah
