@@ -7,6 +7,9 @@ Developed code using Arduino IDE to interface microcontrollers with sensors, enh
 - Altimeter (Adafruit MPL3115A2) data collection
 - Flex sensor implementation
 - Vibration sensor data processing
+  
+## Student Space Programs Laboratory
+- https://sites.psu.edu/sspl/
 
 ## Contributions
 - Abdulrahman Osilan
